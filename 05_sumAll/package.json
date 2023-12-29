@@ -1,0 +1,12 @@
+{
+  "name": "05_sumall",
+  "version": "1.0.0",
+  "description": "Implement a function that takes 2 integers and returns the sum of every number between(and including) them:",
+  "main": "sumAll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
