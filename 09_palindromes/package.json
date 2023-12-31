@@ -1,0 +1,16 @@
+{
+  "name": "09_palindromes",
+  "version": "1.0.0",
+  "description": "Write a function that determines whether or not a given string is a palindrome.",
+  "main": "palindromes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "test": "^3.3.0"
+  }
+}
