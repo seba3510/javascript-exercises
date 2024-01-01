@@ -1,12 +1,30 @@
 const getTheTitles = function (books) {
 
 
-    var result = books.map(books => books.title);
+    // method 1
+    // let titles = books.map(book => book.title);
 
+    // method 2
+
+    let result = [];
+
+    let n = books.length;
+
+
+    for (i = 0; i < n; i++) {
+
+
+        let elem = books[i].title;
+
+
+        result.push(elem);
+
+
+    } // for()
 
     return result;
-
 };
 
 // Do not edit below this line
+
 module.exports = getTheTitles;
